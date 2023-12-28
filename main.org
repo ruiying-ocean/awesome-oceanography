@@ -1,0 +1,70 @@
+Tools 
+
+—Python—
+Geopandas
+Xarray
+cf
+nckitool
+CDO (command tool)
+cartopy
+Metpy
+altair
+Iris
+UV-CDAT
+Nctoolkit
+Ncview
+Rioxarray
+proplot
+https://pyoceans.github.io/sea-py/
+PyGMT
+ArviZ
+XMIP/INTAKE
+cmcrameri （colormap)
+https://sciviscolor.org/colormaps/divergent/ (colormap)
+https://github.com/pangeo-data/awesome-open-climate-science
+ESMValTool
+https://comptools.climatematch.io/tutorials/intro.html
+
+—R—
+tmap
+leaflet
+r2d3map
+oce*
+mapplots
+terra/raster/sp/sf
+
+Beautify:
+
+ggthemes
+ggsci
+ggtech
+ggthemr
+bbplot
+firatheme
+hrbrthemes
+ggpubr
+bruceR
+cowplot/patchwork
+ggthemeassist
+vegan
+
+colormap:colorspace
+
+Julia
+https://github.com/JuliaOcean
+
+Fortran
+FORD (automatic documentation generator)
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/JamieDWilson/Fortran_Matrix_Lab/master/doc/index.html
+
+Open Source Data
+worldclim
+BIO-ORACLE (for ocean SDM)
+eciclimate
+sdmpredictors (R package)
+https://www.paleo-co2.org/
+getech
+Paleomap
+
+Developing tool
+xarray-simlab (a climate framework)
