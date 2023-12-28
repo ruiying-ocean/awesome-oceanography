@@ -1,6 +1,7 @@
-Tools 
+#+title: Useful open-source scientific tools
+#+author: Rui Ying
 
-—Python—
+* Python
 Geopandas
 Xarray
 cf
@@ -24,8 +25,9 @@ https://sciviscolor.org/colormaps/divergent/ (colormap)
 https://github.com/pangeo-data/awesome-open-climate-science
 ESMValTool
 https://comptools.climatematch.io/tutorials/intro.html
+xarray-simlab (a climate framework)
 
-—R—
+* R
 tmap
 leaflet
 r2d3map
@@ -50,14 +52,14 @@ vegan
 
 colormap:colorspace
 
-Julia
+* Julia
 https://github.com/JuliaOcean
 
-Fortran
+* Fortran
 FORD (automatic documentation generator)
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/JamieDWilson/Fortran_Matrix_Lab/master/doc/index.html
 
-Open Source Data
+* Open Source Data
 worldclim
 BIO-ORACLE (for ocean SDM)
 eciclimate
@@ -65,6 +67,3 @@ sdmpredictors (R package)
 https://www.paleo-co2.org/
 getech
 Paleomap
-
-Developing tool
-xarray-simlab (a climate framework)
