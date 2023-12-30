@@ -65,5 +65,7 @@ BIO-ORACLE (for ocean SDM)
 eciclimate
 sdmpredictors (R package)
 https://www.paleo-co2.org/
-getech
+Gplates (and related R/Python packages)
 Paleomap
+PBDB
+
