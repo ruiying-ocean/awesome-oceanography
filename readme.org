@@ -26,6 +26,7 @@ https://github.com/pangeo-data/awesome-open-climate-science
 ESMValTool
 https://comptools.climatematch.io/tutorials/intro.html
 xarray-simlab (a climate framework)
+lets-plot
 
 * R
 tmap
