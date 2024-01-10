@@ -35,6 +35,8 @@ r2d3map
 oce*
 mapplots
 terra/raster/sp/sf
+quarto
+
 
 Beautify:
 
@@ -70,3 +72,5 @@ Gplates (and related R/Python packages)
 Paleomap
 PBDB
 
+
+The ECCO Ocean and Sea-Ice State Estimate
