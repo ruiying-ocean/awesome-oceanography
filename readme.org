@@ -27,6 +27,7 @@ ESMValTool
 https://comptools.climatematch.io/tutorials/intro.html
 xarray-simlab (a climate framework)
 lets-plot
+holoviz
 
 * R
 tmap
