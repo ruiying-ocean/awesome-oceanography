@@ -1,81 +1,74 @@
-#+title: Useful open-source scientific tools
+#+title: A list of open-source oceanography toolboxes
 #+author: Rui Ying
 
 * Python
-Geopandas
-Xarray
-cf
-nckitool
-CDO (command tool)
-cartopy
-Metpy
-altair
-Iris
-UV-CDAT
-Nctoolkit
-Ncview
-Rioxarray
-proplot
-https://pyoceans.github.io/sea-py/
-PyGMT
-ArviZ
-XMIP/INTAKE
-cmcrameri （colormap)
-https://sciviscolor.org/colormaps/divergent/ (colormap)
-https://github.com/pangeo-data/awesome-open-climate-science
-ESMValTool
-https://comptools.climatematch.io/tutorials/intro.html
-xarray-simlab (a climate framework)
-lets-plot
-holoviz
-NCL
-Ferret
-NCO
-PYNGL
-
+- Geopandas
+- Xarray
+- cf
+- nckitool
+- CDO (command tool)
+- cartopy
+- Metpy
+- altair
+- Iris
+- UV-CDAT
+- Nctoolkit
+- Ncview
+- Rioxarray
+- proplot
+- https://pyoceans.github.io/sea-py/
+- PyGMT
+- ArviZ
+- XMIP/INTAKE
+- cmcrameri （colormap)
+- ESMValTool
+- xarray-simlab (a climate framework)
+- lets-plot
+- holoviz
+- NCL
+- Ferret
+- NCO
+- PYNGL
+- https://sciviscolor.org/colormaps/divergent/ (colormap)
+- https://comptools.climatematch.io/tutorials/intro.html
+- https://github.com/pangeo-data/awesome-open-climate-science
+  
 * R
-tmap
-leaflet
-r2d3map
-oce*
-mapplots
-terra/raster/sp/sf
-quarto
-
-
-Beautify:
-
-ggthemes
-ggsci
-ggtech
-ggthemr
-bbplot
-firatheme
-hrbrthemes
-ggpubr
-bruceR
-cowplot/patchwork
-ggthemeassist
-vegan
-
-colormap:colorspace
+- tmap
+- leaflet
+- r2d3map
+- oce*
+- mapplots
+- terra/raster/sp/sf
+- quarto
+- ggthemes
+- ggsci
+- ggtech
+- ggthemr
+- bbplot
+- firatheme
+- hrbrthemes
+- ggpubr
+- bruceR
+- cowplot/patchwork
+- ggthemeassist
+- vegan
+- colormap:colorspace
 
 * Julia
 https://github.com/JuliaOcean
 
 * Fortran
-FORD (automatic documentation generator)
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/JamieDWilson/Fortran_Matrix_Lab/master/doc/index.html
+- FORD (automatic documentation generator)
+- https://htmlpreview.github.io/?https://raw.githubusercontent.com/JamieDWilson/Fortran_Matrix_Lab/master/doc/index.html
 
 * Open Source Data
-worldclim
-BIO-ORACLE (for ocean SDM)
-eciclimate
-sdmpredictors (R package)
-https://www.paleo-co2.org/
-Gplates (and related R/Python packages)
-Paleomap
-PBDB
-
-
-The ECCO Ocean and Sea-Ice State Estimate
+- worldclim
+- BIO-ORACLE (for ocean SDM)
+- eciclimate
+- sdmpredictors (R package)
+- https://www.paleo-co2.org/
+- Gplates (and related R/Python packages)
+- Paleomap
+- PBDB
+- The ECCO Ocean and Sea-Ice State Estimate
