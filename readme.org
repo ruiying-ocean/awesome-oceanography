@@ -32,6 +32,7 @@
 - https://sciviscolor.org/colormaps/divergent/ (colormap)
 - https://comptools.climatematch.io/tutorials/intro.html
 - https://github.com/pangeo-data/awesome-open-climate-science
+- parcels (https://https://oceanparcels.org/)
   
 * R
 - tmap
