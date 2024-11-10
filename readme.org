@@ -55,6 +55,7 @@
 - ggthemeassist
 - vegan
 - colormap:colorspace
+- ggOceanMaps
 
 * Julia
 https://github.com/JuliaOcean
