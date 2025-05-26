@@ -25,10 +25,9 @@
 - xarray-simlab (a climate framework)
 - lets-plot
 - holoviz
-- NCL
+- NCL and successor (PyNGL)
 - Ferret
 - NCO
-- PYNGL
 - https://sciviscolor.org/colormaps/divergent/ (colormap)
 - https://comptools.climatematch.io/tutorials/intro.html
 - https://github.com/pangeo-data/awesome-open-climate-science
