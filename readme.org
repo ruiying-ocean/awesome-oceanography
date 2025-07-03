@@ -55,6 +55,7 @@
 - vegan
 - colormap:colorspace
 - ggOceanMaps
+- cmcrameri/palettable
 
 * Julia
 https://github.com/JuliaOcean
